@@ -1,0 +1,15 @@
+.board-row{
+  display: flex;
+  justify-content: space-evenly;
+align-items: center
+;
+}
+.main{
+  width: 400px;
+  margin: auto;
+  
+}
+.container {
+  width: 1000px;
+  margin: auto;
+}
